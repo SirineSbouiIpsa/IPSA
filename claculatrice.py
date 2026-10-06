@@ -7,3 +7,4 @@ if b==0 :
     print("devision par zero")
 else : 
     print("Devision: " a/b)
+print("puissance :", a**b)
